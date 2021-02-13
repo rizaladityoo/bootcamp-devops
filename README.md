@@ -20,7 +20,7 @@ sumber (https://www.geeksforgeeks.org/aws-vs-openstack/)
 3. Git adalah salah satu sistem pengontrol versi (Version Control System) pada proyek perangkat lunak yang diciptakan oleh Linus Torvalds.
 Pengontrol versi bertugas mencatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri.
 Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
-![](images/08.png)
+![](images/03.png)
 Semua orang yang terlibat dalam pengkodean proyek akan menyimpan database Git, sehingga akan memudahkan dalam mengelola proyek baik online maupun offline.
 4. karena apabila tidak ada ci/cd proses development aplikasi akan cenderung lebih lambat dan juga kurang praktis ![](images/04.webp)
 5. Chef  procedural style
